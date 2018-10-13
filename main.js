@@ -1,5 +1,7 @@
 let count = 0;
-let betOrHold;
+let betOrHold = "Hold Bets";
+var theCount = 0;
+
 document.getElementById("theCount").innerHTML = betOrHold;
 
 function countingCards(card) {
