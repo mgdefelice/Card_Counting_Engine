@@ -1,0 +1,24 @@
+{
+  "name": "CCE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgdefelice/Card_Counting_Engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://mgdefelice.github.io/Card_Counting_Engine",
+  "bugs": {
+    "url": "https://github.com/mgdefelice/Card_Counting_Engine/issues"
+  },
+  "homepage": "https://github.com/mgdefelice/Card_Counting_Engine#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
